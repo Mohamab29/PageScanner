@@ -17,7 +17,9 @@ example:
 <img src="https://github.com/Mohamab29/PageScanner/blob/main/saved.jpg" width="500" height="500">
 
 <hr>
+
 In order to run the script it need to run in the terminal like this:
+<br>
 >python Scanner.py "path of an image to be scanned"  "the path you want to save the scanned image at"
 
 Thanks to Dr. Irina Rabaev and Adrian Rosebrock 
