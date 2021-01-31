@@ -1,8 +1,9 @@
 # PageScanner
 
 The Scanner.py script is an image scanner meaning it is meant to scan images that contain a rectangle paper and we want to scan it like how the app CamScan does it.
-First we take a given image (preferred to have dimensions >(1000,1000) else the resizing needs to be changed)
-and then detect its edges using canny edge detector  after that 
+<br>
+First we take a given image (preferred to have dimensions >(1000,1000) else the resizing needs to be changed).<br>
+and then detect its edges using canny edge detector after that 
 we calculate the location of the four corners of the rectangle using contour detection 
 and after we've found the corners we transform the ROI into a top down view
 using OpenCv warpPerspective and finally we threshold the image so it looks like a scanned image
