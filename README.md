@@ -8,8 +8,13 @@ and after we've found the corners we transform the ROI into a top down view
 using OpenCv warpPerspective and finally we threshold the image so it looks like a scanned image
 
 example:
-![page_image](https://github.com/Mohamab29/PageScanner/blob/main/page.jpg){:height="500px" width="500px"}
-![page_image](https://github.com/Mohamab29/PageScanner/blob/main/saved.jpg){:height="500px" width="500px"}
+
+<img src="https://github.com/Mohamab29/PageScanner/blob/main/page.jpg" width="500" height="500">
+
+
+
+<img src="https://github.com/Mohamab29/PageScanner/blob/main/saved.jpg" width="500" height="500">
+
 
 In order to run the script it need to run in the terminal like this:
 >python Scanner.py "path of an image to be scanned"  "the path you want to save the scanned image at"
