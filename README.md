@@ -10,11 +10,11 @@ using OpenCv warpPerspective and finally we threshold the image so it looks like
 
 example:
 
-<img src="https://github.com/Mohamab29/PageScanner/blob/main/page.jpg" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Mohamab29/PageScanner/main/imgs/page.jpg" width="500" height="500">
 
 <hr>
 
-<img src="https://github.com/Mohamab29/PageScanner/blob/main/saved.jpg" width="500" height="500">
+<img src="https://raw.githubusercontent.com/Mohamab29/PageScanner/main/imgs/scanned.jpg" width="500" height="500">
 
 <hr>
 
